@@ -2,7 +2,7 @@
 
 A small store management application targeted for Maemo platform. Features: custom categories, cart, billing, simple GUI, stats. Czech language
 
-![mStore screenshot](https://raw.github.com/dayweek/mstorebranch/master/screen.png)
+![mStore screenshot](https://raw.github.com/dayweek/mstore/master/screen.png)
 
 ## Requirements
 
