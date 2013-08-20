@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=0.0.1
+Encoding=UTF-8
+Name=mStore
+Exec=/usr/bin/mstore
+Icon=mstore_icon_26x26
+Type=Application

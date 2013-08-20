@@ -1,0 +1,19 @@
+body {
+  font-size: xx-large;
+}
+
+.col_caption {
+  font-weight: bold;
+  text-align: center;
+}
+.number {
+  text-align: right;
+
+}
+.title {
+  text-align: left;
+}
+.sum {
+  font-style: italic;
+  text-align: right;
+}

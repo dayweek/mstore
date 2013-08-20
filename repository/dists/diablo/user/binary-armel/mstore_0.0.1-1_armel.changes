@@ -1,0 +1,20 @@
+Format: 1.7
+Date: Sat, 23 May 2009 16:24:42 +0200
+Source: mstore
+Binary: mstore
+Architecture: source armel
+Version: 0.0.1-1
+Distribution: diablo
+Urgency: low
+Maintainer: david <davidhrachovy@atlas.cz>
+Changed-By: David Hrachovy <davidhrachovy@atlas.cz>
+Description: 
+ mstore     - mStore is a simple store management system.
+Changes: 
+ mstore (0.0.1-1) diablo; urgency=low
+ .
+   * Initial release
+Files: 
+ 2bbcb18c17d27537841989e5dae73876 249 user/other optional mstore_0.0.1-1.dsc
+ a01ece0d739fa332a8651b17d8ef5250 87400 user/other optional mstore_0.0.1-1.tar.gz
+ e22c8d07dc12d74f8b9c1511b5076cd9 80164 user/other optional mstore_0.0.1-1_armel.deb
