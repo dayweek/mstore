@@ -20,7 +20,7 @@ Run this command in the terminal
 fakeroot dpkg -i mstore_0.0.1-1_armel.deb
 ```
 
-There is also Debian repository in located in `repository`.
+There is also Debian repository located in `repository`.
 
 ## Copyright
 
